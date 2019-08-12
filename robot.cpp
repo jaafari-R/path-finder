@@ -5,7 +5,7 @@
   *     position(S) to the Goal position(G), this is represented
   *     by a grid in the program.
   * notes: a user may enter an argument, "order", to output the
-  *     order in which the nodes/positions where expanded.
+  *     order in which the nodes/positions were expanded.
 */
 
 #include <iostream>
